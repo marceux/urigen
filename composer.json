@@ -1,0 +1,14 @@
+{
+    "name": "marceux/urigen",
+    "authors": [
+        {
+            "name": "Marco Salazar de Leon",
+            "email": "msalazardeleon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+	"psr-4": {"Marceux\\": "src/"}
+    }
+}
